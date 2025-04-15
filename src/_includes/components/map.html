@@ -1,6 +1,6 @@
 {% macro map(classes) %}
   <a
-    href="http://maps.apple.com/?daddr={{ settings.locationLatLong | safe }}"
+    href="https://maps.google.com/?q={{ settings.locationLatLong | safe }}"
     target="_blank"
     rel="nofollow noopener">
     <div class="relative w-full overflow-hidden {{ classes | safe }}">
