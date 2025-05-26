@@ -22,4 +22,4 @@ Spinal Screenings are for everyone, but specifically for anyone who experiences 
 * Tension and Inability to relax
 * Poor Posture
 
-<a href="/sign-up-for-a-spinal-screening/" class="no-underline bg-[color:var(--light-green)] text-white mb-4 rounded-md cursor-pointer inline-block py-4 px-6 hover:opacity-80">Sign up now!</a>
+<a href="/sign-up-for-a-spinal-screening/" class="no-underline bg-[color:var(--light-green)] text-white mb-4 rounded-md cursor-pointer inline-block py-4 px-6 hover:opacity-80">Book Your Spinal Screening – Contact Us Now</a>

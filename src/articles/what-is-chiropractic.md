@@ -85,3 +85,5 @@ Chiropractors recognise three general types of stress that cause subluxation.
 **Emotional stress** such as anger, grief, fear and many others can cause supporting muscles to tighten, the spine to stiffen and postural changes to emerge.
 
 One way to visualise subluxation is that of a "circuit breaker" that prevents an overload to the brain by dampening the ability of nerves to conduct nerve messages.
+
+<a href="/contact/" class="no-underline bg-[color:var(--dark-purple)] text-white mb-4 rounded-md cursor-pointer inline-block py-4 px-6 hover:opacity-80">Have Questions About Chiropractic? Get in Touch</a>

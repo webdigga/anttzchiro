@@ -59,3 +59,5 @@ In addition to Chiropractic, we can advise you on dietary changes, developing he
 ## The Time Is Always Right
 
 happy to provide care to entire families, from newborns to elderly adults. He understands that the benefits of Chiropractic expand to all people, regardless of age or condition, and that is why she believes in beginning Chiropractic adjustments as early as possible.
+
+<a href="/contact/" class="no-underline bg-[color:var(--dark-purple)] text-white mb-4 rounded-md cursor-pointer inline-block py-4 px-6 hover:opacity-80">Support for You and Baby Starts Here – Contact Us</a>

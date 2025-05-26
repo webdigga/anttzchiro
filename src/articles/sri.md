@@ -52,3 +52,5 @@ He categorised a dozen unique rhythms, which he identified as **The Twelve Stage
 * Transcend physical pain, stress, depression and tiredness
 * Make significant and positive life changes
 * Maintain a greater depth of wellbeing
+
+<a href="/contact/" class="no-underline bg-[color:var(--dark-purple)] text-white mb-4 rounded-md cursor-pointer inline-block py-4 px-6 hover:opacity-80">Curious About SRI? Let’s Chat</a>
