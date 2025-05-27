@@ -42,7 +42,7 @@ Across the US and Canada, Chiropractors are commonly established in hospitals. S
 
 ## Benefits
 
-Chiropractors must complete a five-year university degree and as such, are primary health care providers. This means that like your general practitioner (G.P.) they have comprehensive knowledge of all systems of the body and diagnostic procedures. This enables your Chiropractor to thoroughly evaluate a patient and address disorders relating to the spine and nervous system. This includes back pain, neck pain, headaches, migraines, whiplash, concussion, dizziness, vertigo to name a few.
+Chiropractors are university-trained primary healthcare professionals who specialise in the assessment and management of musculoskeletal conditions. Many people consult chiropractors for issues such as back pain, neck pain, and certain types of headaches that are known to respond to manual therapy. Chiropractors are also trained to identify when referral to another healthcare provider is appropriate.
 
 Dr DD Palmer began the Chiropractic profession in 1895 when he delivered the first Chiropractic adjustment to a man who had been deaf for 17 years after a back injury. The man's hearing was restored and Chiropractic was born.
 
