@@ -12,33 +12,31 @@ tags:
 ---
 <img src="/_includes/static/img/touching-patient-back.webp" alt="Touching patients back" title="Touching patients back" class="Left" width="600px" height="450px" loading="lazy"/>
 
-With continued research during the last 20-30 years, a more complete explanation of what happens when spinal bones lose their normal motion or position has become known as the vertebral subluxation complex.
+Chiropractors assess and address areas of the spine that may not be moving as they should, using evidence-informed approaches tailored to each patient.
 
-The five components of the vertebral subluxation complex explain some of the implications, both local and peripheral to the spine, when spinal bones misalign and interfere with proper nerve conduction.
+While the chiropractic vertebral subluxation complex is an historical concept and remains a theoretical model, some chiropractors use it to describe changes in spinal joint function and their potential effects. However, there is no clinical research evidence that supports claims that vertebral subluxation causes disease.
 
 ## Subluxation and Chiropractic Treatment
 
-Chiropractic is different from medicine in many ways. Most profoundly, Chiropractic care does NOT treat disease, conditions or symptoms. That's the practice of medicine.
+Chiropractic care takes a different approach from traditional medical treatment. Rather than focusing on treating specific diseases or conditions, chiropractic aims to support the body’s natural function by improving joint mobility and nervous system function.
 
-Instead, the intent of Chiropractic care is to revive an individual's self-healing ability by locating and reducing vertebral subluxation. This unique approach to better health has been helping millions of people for more than a century, without the use of drugs or surgery.
+Chiropractors use manual techniques, including spinal adjustments, to help restore movement in the spine and other joints. This approach is patient-centred and evidence-informed, focusing on overall wellbeing and functional improvement without the use of drugs or surgery.
 
 ## Chiropractic Care
 
-**Our Chiropractors** focus on your nervous system. This system controls everything in the body. When there is no interference with the nervous system, you will work at your highest level. Though most people come in for problems such as pain, we improve your nervous system so that your symptoms can clear up.
+**Our Chiropractors** focus on your nervous system. This system controls everything in the body. When there is no interference with the nervous system, your body is able to function at a higher level. Though most people come in for problems such as pain, we support your nervous system so that your symptoms may improve.
 
-The benefits you can experience from Chiropractic include more energy, improved balance, better sleep, increased concentration and reduced stiffness, amongst others. The sky's the limit when your body has a better overall function!
+The benefits you can experience from Chiropractic include more energy, improved balance, better sleep, increased concentration and reduced stiffness, amongst others.
 
 ## Our Holistic Philosophy
 
-There are three phases of care in our clinic. The first is called relief care, which is when we focus on relieving your pain. The next is stabilisation, which includes strengthening weakened areas of your body. The goal is to get you to the final phase called vitalistic care. During this stage, you'll come in for brief periodic checkups to ensure there is no interference in your nervous system.
+There are three phases of care in our clinic. The first is called relief care, which is when we focus on relieving your pain. The next is stabilisation, which includes strengthening weakened areas of your body. The goal is to get you to the final phase called vitalistic care. During this stage, you'll come in for brief periodic checkups to help ensure your nervous system is functioning at its best.
 
 ## About
 
-The third largest healthcare profession in the world- Chiropractic is a safe and effective affordable approach to treatment that utilises the body's innate ability to heal itself. A primary approach of Chiropractic care includes specific spinal adjustments that have a direct impact on the nervous system, improving overall health and performance.
+The third largest healthcare profession in the world, Chiropractic is a safe and effective affordable approach to treatment that utilises the body's innate ability to heal itself. A primary approach of Chiropractic care includes specific spinal adjustments that may affect the nervous system and contribute to improved overall health and performance.
 
-The causes of spinal subluxations include accidents, injuries, as well as common daily tasks such as sitting at a desk or repetitive bending and lifting with poor posture. Stress and chemical stress is also a cause or contributing factor.
-
-Subluxation has a detrimental effect on muscle and brain function and human health. Having your spine adjusted by a Chiropractor will improve these.
+Chiropractors may discuss potential contributing factors such as poor posture, injuries, or daily stress that might influence spinal joint function. However, claims that vertebral subluxations cause disease are not supported by clinical research.
 
 Across the US and Canada, Chiropractors are commonly established in hospitals. Successful organisations such as Facebook and Google retain Chiropractors on staff for the benefit of their employees.
 
@@ -52,31 +50,27 @@ How did correcting a man's back problem correct his hearing? To answer that ques
 
 Your body is a self-regulating, self-healing organism. These important functions are controlled by the brain and spinal cord via the body's intricate system of nerves. Your nerves keep a close check on every one of the millions of things going on both inside and outside your body every second of every day, without you ever having to give it even a moment's thought.
 
-The skull protects the delicate tissues of the brain. The moving bones of the spine protect the vulnerable communication pathways of the spinal cord and nerve roots. Tiny misalignments or abnormal movement of the spinal bones may interfere with the normal function of the nervous system.
+The skull protects the delicate tissues of the brain. The moving bones of the spine protect the vulnerable communication pathways of the spinal cord and nerve roots. When spinal bones are not functioning properly, this may affect the normal function of the nervous system.
 
-Chiropractic doctors call this process "*vertebral subluxation*".
+Some chiropractors have historically referred to this as "vertebral subluxation."
 
-A subluxation is a complex of joint changes that comprises nervous system integrity and may influence organ system function and general health.
+A subluxation is sometimes described as a complex of joint changes that may influence nervous system integrity and general health. However, this concept remains a theoretical model and cannot be used to make claims of curing or causing disease.
 
-Sometimes subluxation might be caused by poor posture, bad sleeping habits, slips and falls, car accidents, or too much coffee or alcohol sports impacts, strenuous exercise, work injuries, childhood falls. Even the birth process can cause subluxation for both mother and child. Chemical stress - such as dehydration - may cause subluxation. Emotional tension may also lead to subluxation, a fact to which you may be able to relate if you've ever had a headache at the end of a busy day.
+Factors that may influence joint function include poor posture, bad sleeping habits, slips and falls, car accidents, strenuous exercise, work injuries, childhood falls, dehydration, and emotional stress.
 
-Chiropractors are the only doctors trained to find and correct subluxation. By correcting subluxations and removing nerve interference, Chiropractors give your body a better chance at normal health and function.
-
-Chiropractic treatments, called spinal adjustments, are gentle, comfortable and highly effective. People of all ages can receive Chiropractic care to get healthy and stay healthy. Chiropractors are highly educated, caring professionals sensitive to the natural health care needs of you and your family.
+Chiropractors are trained to assess and address joint dysfunction with the goal of improving mobility and reducing nervous system irritation. Chiropractic treatments, called spinal adjustments, are gentle, comfortable and highly effective. People of all ages can receive Chiropractic care to support better movement and overall function.
 
 ## What Is Subluxation?
 
-Subluxation is probably a term you've never heard before, especially if you're new to Chiropractic.
+Subluxation is a term used in chiropractic to describe changes in spinal joint movement or alignment that may affect nervous system function. While the medical definition of subluxation typically refers to a partial dislocation, the chiropractic perspective also considers the potential neurological implications of altered spinal mechanics.
 
-The most fundamental definition of a subluxation, or more accurately a "vertebral" subluxation, is a spinal bone that is partially dislocated or out of alignment in relation to the spinal bone above or below it.
-
-Chiropractors use the term subluxation a bit differently than medical practitioners. Not only do Chiropractors recognise more subtle nuances of dislocation, but they also acknowledge the neurological impact that is associated with the loss of normal motion or position of spinal bones. Here's a more complete subluxation definition.
+As noted in regulatory guidance, the vertebral subluxation complex remains a theoretical model and should not be associated with claims of curing or causing disease.
 
 ## Subluxation: A Response to Stress
 
-What causes spinal bones to become misaligned and lose their normal position?
+What may cause spinal bones to become misaligned or lose their normal function?
 
-Chiropractors recognise three general types of stress that cause subluxation.
+Chiropractors often consider three general types of stress that can influence spinal joint function:
 
 **Physical stress** is the most easily understood. Whiplash injuries due to a car accident are common occurrences. The whipping action of the head can produce profound changes to the neck and its graceful forward curve.
 
@@ -84,6 +78,6 @@ Chiropractors recognise three general types of stress that cause subluxation.
 
 **Emotional stress** such as anger, grief, fear and many others can cause supporting muscles to tighten, the spine to stiffen and postural changes to emerge.
 
-One way to visualise subluxation is that of a "circuit breaker" that prevents an overload to the brain by dampening the ability of nerves to conduct nerve messages.
+This model offers a way to understand how stress can influence physical function. However, chiropractors must ensure that any claims made are evidence-informed and comply with regulatory standards.
 
 <a href="/contact/" class="no-underline bg-[color:var(--dark-purple)] text-white mb-4 rounded-md cursor-pointer inline-block py-4 px-6 hover:opacity-80">Have Questions About Chiropractic? Get in Touch</a>

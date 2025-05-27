@@ -48,15 +48,13 @@ Some practitioners may also measure heart rate variability (HRV), surface electr
 
 ## How Does Network Spinal Work?
 
-NetworkSpinal combines spinal alignment assessments and intervention with our practice members' evaluation of their general well-being.
+NetworkSpinal is a gentle approach used by some chiropractors to assess and influence spinal movement and function, with the aim of promoting improved wellbeing.
 
-Taking into account both spinal subluxations and stress factors such as depression or life changes, NetworkSpinal, or NS, is provided as part of an individualised holistic care plan designed specifically for you. NetworkSpinal works on the principle that each individual possesses an innate intelligence that gives them the ability to naturally self-heal, a capacity that is significantly diminished when the spine and nerve system is compromised due to subluxations and their associated effects.
-
-NetworkSpinal care upgrades the body's operating system. The resulting greater efficiency of central nervous system function improves the overall quality of your health...and your life!
+This technique considers factors such as lifestyle stress and spinal tension patterns as part of a personalised care plan. Practitioners using NetworkSpinal focus on helping the spine move more freely, which may support a greater sense of ease and awareness in the body.
 
 ## What are the Benefits of Network Spinal?
 
-This cutting-edge spinal care system physically eases discomfort, while simultaneously causing the body to develop internal, self-regulating mechanisms that allow it to better adapt to stress. The benefits of NetworkSpinal include:
+This cutting-edge spinal care system physically eases discomfort, while simultaneously causing the body to develop internal, self-regulating mechanisms that allow it to better adapt to stress. The benefits of Network Spinal include:
 
 * Improved physical state
 * Spinal and joint realignment, leading to reduced pain and discomfort
