@@ -57,4 +57,4 @@ The day involves:
 
 ***The cost for this webinar is £97***
 
-For more information please contact Dr Hannah - [info@anttzchiro.com](mailto:info@anttzchiro.com)
+For more information please contact Dr of Chiropractic Hannah Emmett - [info@anttzchiro.com](mailto:info@anttzchiro.com)
