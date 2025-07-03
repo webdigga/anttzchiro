@@ -23,6 +23,8 @@ firstLevelItems:
         url: /somato-respiratory-integration-sri/
       - text: Spinal screening
         url: /chiropractic-spinal-screening/
+      - text: Ehlers-Danlos Syndrome
+        url: /chiropractic-care-for-ehlers-danlos-syndrome-eds/
   - text: Free Reports
     url: /free-reports/
     secondLevelItems:
@@ -34,6 +36,8 @@ firstLevelItems:
         url: /get-your-free-headaches-report/
       - text: Pain to Progress
         url: /get-your-free-pain-to-progress-report/
+      - text: Dancers and Chiropractic
+        url: /dancers-and-chiropractic-free-report/
   - text: Resources
     url: /resources/
     secondLevelItems:
