@@ -44,7 +44,7 @@ Across the US and Canada, Chiropractors are commonly established in hospitals. S
 
 Chiropractors are university-trained primary healthcare professionals who specialise in the assessment and management of musculoskeletal conditions. Many people consult chiropractors for issues such as back pain, neck pain, and certain types of headaches that are known to respond to manual therapy. Chiropractors are also trained to identify when referral to another healthcare provider is appropriate.
 
-Dr DD Palmer began the Chiropractic profession in 1895 when he delivered the first Chiropractic adjustment to a man who had been deaf for 17 years after a back injury. The man's hearing was restored and Chiropractic was born.
+Dr. DD Palmer began the Chiropractic profession in 1895 when he delivered the first Chiropractic adjustment to a man who had been deaf for 17 years after a back injury. The man's hearing was restored and Chiropractic was born.
 
 How did correcting a man's back problem correct his hearing? To answer that question, let's take a brief look at how the body works.
 
