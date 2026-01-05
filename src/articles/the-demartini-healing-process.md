@@ -1,8 +1,9 @@
 ---
 title: The Demartini Healing Process
-seoTitle: The Demartini Healing Process | Anttz Family Chiropractic
-description: Explore the Demartini Process, a transformative method for personal
-  growth and emotional healing through self-reflection and perspective shifts.
+seoTitle: Demartini Process | Emotional Healing & Transformation | Anttz
+description: Discover the Demartini Process for emotional healing & personal
+  growth at Anttz Chiropractic Kingston. Transformative self-reflection
+  techniques for lasting change.
 author: David White
 date: 2024-10-10T16:15:00.000Z
 type: article

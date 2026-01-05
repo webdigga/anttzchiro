@@ -1,6 +1,6 @@
 ---
 title: Essential Health Supplements
-seoTitle: Essential Health Supplements | Anntz Family Chiropractic
+seoTitle: Essential Health Supplements | Anttz Family Chiropractic
 description: Discover high-quality health supplements at Anttz Family
   Chiropractic. Support your wellness journey with our carefully selected
   products today!

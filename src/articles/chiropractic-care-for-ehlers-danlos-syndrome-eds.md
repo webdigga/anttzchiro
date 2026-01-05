@@ -9,6 +9,7 @@ showDate: false
 type: article
 tags:
   - article
+seoSchemaPageType: Service
 ---
 Living with Ehlers-Danlos Syndrome (EDS) can be challenging. From joint instability and pain to chronic fatigue, EDS affects many aspects of daily life. At Anttz Chiropractic, we offer gentle, individualised care designed to support people with EDS in feeling more stable, comfortable and confident in their bodies.
 
@@ -24,7 +25,7 @@ For those with EDS, joints may be overly flexible or prone to dislocation. Skin 
 
 ## How Chiropractic Can Help
 
-Chiropractic care won’t “fix” EDS - but it can offer meaningful support.
+[Chiropractic care](/what-is-chiropractic-treatment/) won't "fix" EDS - but it can offer meaningful support.
 
 At Anttz Chiropractic, we take a gentle, adaptable approach that respects the unique needs of people with EDS. Our care may help to:
 
@@ -32,9 +33,9 @@ At Anttz Chiropractic, we take a gentle, adaptable approach that respects the un
 * Ease muscle tension and spasm
 * Support posture and body awareness
 * Improve joint stability over time
-* Support nervous system regulation
+* Support [nervous system regulation](/what-is-network-spinal-chiropractic/)
 
-We avoid any high-force or uncomfortable techniques. Everything we do is tailored to your body and your comfort levels.
+We avoid any high-force or uncomfortable techniques. We use [Network Spinal](/what-is-network-spinal-chiropractic/), a gentle approach that is tailored to your body and your comfort levels.
 
 - - -
 
@@ -48,6 +49,6 @@ If we believe chiropractic care is appropriate for you, we’ll create a plan th
 
 ## Book a Consultation
 
-If you’re living with EDS and wondering whether chiropractic care could help, we’d love to talk. Our door is always open, and we’re here to answer your questions.
+If you're living with EDS and wondering whether chiropractic care could help, we'd love to talk. [Dr Hannah Emmett](/hannah-emmett-trusted-chiropractor/) has experience working with clients with complex conditions and takes a gentle, personalised approach. Check our [FAQs](/frequently-asked-questions-faqs/) for answers to common questions.
 
-[Contact us](../contact) today to book your initial consultation or to find out more.
+<a href="/contact/" class="no-underline bg-[color:var(--dark-purple)] text-white mb-4 rounded-md cursor-pointer inline-block py-4 px-6 hover:opacity-80">Book Your EDS Consultation Today</a>

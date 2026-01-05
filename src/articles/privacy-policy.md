@@ -1,7 +1,8 @@
 ---
 title: Privacy policy
-seoTitle: Privacy policy | Anttz Chiropractic
-description: Cookie consent
+seoTitle: Privacy Policy | Anttz Chiropractic
+description: Privacy policy for Anttz Chiropractic Kingston Upon Thames. Learn
+  how we collect, use and protect your data including Google Analytics cookies.
 author: David White
 date: 2024-02-29T17:13:10.382Z
 type: privacy

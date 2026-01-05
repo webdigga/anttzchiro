@@ -1,14 +1,15 @@
 ---
 title: Somato-Respiratory Integration (SRI)
-seoTitle: Somato-Respiratory Integration (SRI) | Anttz Chiropractic
-description: Explore SRI (Somato-Respiratory Integration), a Chiropractic
-  approach that enhances awareness and promotes healing through breath and body
-  connection.
+seoTitle: SRI Breathing Exercises & 12 Stages of Healing | Anttz Chiropractic
+description: Discover Somato Respiratory Integration (SRI) breathing exercises
+  based on the 12 Stages of Healing. Connect body & breath for stress relief,
+  healing & wellbeing.
 author: David White
 date: 2024-02-29T17:13:10.382Z
 type: article
 tags:
   - article
+seoSchemaPageType: Service
 ---
 <img src="/_includes/static/img/breathing.webp" alt="Elderly couple doing breathwork" title="Elderly couple doing breathwork" class="Right" width="600px" height="450px" loading="lazy"/>
 
@@ -24,7 +25,7 @@ Holistic tools, like SRI breathing exercises, are irreplaceable at times when yo
 
 SRI is grounded in Reorganisational Healing and to put it simply, it's a powerful series of exercises using breath, awareness, touch and movement developed to help you connect your body and mind, and deal with life more efficiently and positively.
 
-Through working with thousands of patients over many decades, NetworkSpinal® founder, Dr. Donald Epstein, noticed predictable patterns in the way people move and breathe when they experience both negative and positive life events.
+Through working with thousands of patients over many decades, [NetworkSpinal](/what-is-network-spinal-chiropractic/) founder, Dr. Donald Epstein, noticed predictable patterns in the way people move and breathe when they experience both negative and positive life events.
 
 ## The Twelve Stages
 
@@ -45,12 +46,14 @@ He categorised a dozen unique rhythms, which he identified as **The Twelve Stage
 
 *Reconnect you to your body and begin feeling great again with SRI*
 
-* Enhance the results of your NSA care
+* Enhance the results of your [Network Spinal](/what-is-network-spinal-chiropractic/) care
 * Stay more connected and present in your body
 * Feel more focused and energised
 * Be more creative
 * Transcend physical pain, stress, depression and tiredness
 * Make significant and positive life changes
 * Maintain a greater depth of wellbeing
+
+[Dr Hannah Emmett](/hannah-emmett-trusted-chiropractor/) guides clients through SRI exercises as part of their care at Anttz. Have questions? See our [FAQs](/frequently-asked-questions-faqs/).
 
 <a href="/contact/" class="no-underline bg-[color:var(--dark-purple)] text-white mb-4 rounded-md cursor-pointer inline-block py-4 px-6 hover:opacity-80">Curious About SRI? Let’s Chat</a>

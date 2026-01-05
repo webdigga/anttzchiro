@@ -1,18 +1,19 @@
 ---
 title: Pregnancy and Paediatric Chiropractic
-seoTitle: Pregnancy and Paediatric Chiropractic | Anttz Chiropractic
-description: Explore how Chiropractic care supports pregnancy and pediatric
-  health, promoting comfort, alignment, and overall well-being for mothers and
-  children.
+seoTitle: Pregnancy & Paediatric Chiropractor Kingston | Anttz Chiropractic
+description: Gentle Chiropractic care for pregnancy & children in Kingston Upon
+  Thames. Relieve back pain, pelvic discomfort & support your family's spinal
+  health.
 author: David White
 date: 2024-02-29T17:13:10.382Z
 type: article
 tags:
   - article
+seoSchemaPageType: Service
 ---
 <img src="/_includes/static/img/pregnant.webp" alt="Pregnant woman holding her back" title="Pregnant woman holding her back" class="Right" width="600px" height="450px" loading="lazy"/>
 
-Do you think of pain as something that all pregnant women experience? Though it's common, it is not normal. There may be another choice than trying to cope as best you can with aches and pains. If your nervous system functions correctly, you won't have symptoms such as discomfort. Our pregnant clients report benefits such as:
+Do you think of pain as something that all pregnant women experience? Though it's common, it is not normal. There may be another choice than trying to cope as best you can with aches and pains. If your [nervous system](/what-is-network-spinal-chiropractic/) functions correctly, you won't have symptoms such as discomfort. Our pregnant clients report benefits such as:
 
 * Better sleep
 * Easier movement and mobility
@@ -36,7 +37,7 @@ From day one, we want to know: what do you want to get out of care? We'll let yo
 
 ## Paediatric Chiropractic
 
-Chiropractic has the ability to make a difference in the lives of babies and children, just as it does in the lives of adults. It has been known to help issues regarding colic, nursing, sleep, digestive function, and so much more. Utilising gentle techniques provides comfortable care with an in-depth explanation to ease worry.
+[Chiropractic](/what-is-chiropractic-treatment/) has the ability to make a difference in the lives of babies and children, just as it does in the lives of adults. It has been known to help issues regarding colic, nursing, sleep, digestive function, and so much more. Utilising gentle techniques provides comfortable care with an in-depth explanation to ease worry.
 
 Sometimes, if the child is the only client, parents will begin to ask questions and often, as a result, seek Chiropractic care for themselves. More often than not, it is a family affair.
 
@@ -58,6 +59,8 @@ In addition to Chiropractic, we can advise you on dietary changes, developing he
 
 ## The Time Is Always Right
 
-happy to provide care to entire families, from newborns to elderly adults. He understands that the benefits of Chiropractic expand to all people, regardless of age or condition, and that is why she believes in beginning Chiropractic adjustments as early as possible.
+[Dr Hannah Emmett](/hannah-emmett-trusted-chiropractor/) is happy to provide care to entire families, from newborns to elderly adults. She understands that the benefits of Chiropractic expand to all people, regardless of age or condition, and that is why she believes in beginning Chiropractic adjustments as early as possible.
+
+Download our [free pregnancy report](/get-your-free-pregnancy-report/) for more information, or check our [FAQs](/frequently-asked-questions-faqs/) for answers to common questions.
 
 <a href="/contact/" class="no-underline bg-[color:var(--dark-purple)] text-white mb-4 rounded-md cursor-pointer inline-block py-4 px-6 hover:opacity-80">Support for You and Baby Starts Here – Contact Us</a>

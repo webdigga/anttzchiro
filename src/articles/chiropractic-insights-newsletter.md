@@ -1,8 +1,9 @@
 ---
 title: Chiropractic Insights Newsletter
-seoTitle: Chiropractic Insights Newsletter | Anttz Family Chiropractic
-description: Stay informed with the latest news, tips, and insights on
-  Chiropractic care from Anttz Family Chiropractic
+seoTitle: Chiropractic Newsletter | Dance Injuries & Nervous System | Anttz
+description: Read the latest Chiropractic insights from Anttz Kingston - dance
+  injuries, nervous system health & Network Spinal care tips for optimal
+  wellbeing.
 author: David White
 date: 2024-10-10T17:58:00.000Z
 showDate: true

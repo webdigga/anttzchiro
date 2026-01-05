@@ -1,8 +1,9 @@
 ---
 title: Chiropractic Video Resources
-seoTitle: Chiropractic Video Resources | Anttz Family Chiropractic
-description: Explore helpful videos from Anttz Chiropractic on wellness,
-  treatments, and tips for a healthier lifestyle. Learn and stay informed!
+seoTitle: Chiropractic & Network Spinal Videos | Anttz Chiropractic
+description: Watch educational videos about Network Spinal Chiropractic, nervous
+  system health & wellness from Anttz Chiropractic Kingston. Featuring Dr Heidi
+  Haavik & more.
 author: David White
 date: 2024-10-10T12:58:00.000Z
 type: article

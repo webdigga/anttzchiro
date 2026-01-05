@@ -1,14 +1,15 @@
 ---
 title: What is Network Spinal Chiropractic
-seoTitle: What is Network Spinal Chiropractic | Anttz Chiropractic
-description: Discover Network Spinal, a gentle Chiropractic technique that uses
-  light touches to enhance spinal health, reduce stress, and improve overall
-  well-being.
+seoTitle: What is Network Spinal Analysis (NSA)? | Anttz Chiropractic
+description: Learn how Network Spinal Analysis (NSA) uses gentle light touches
+  to release tension, reduce stress & improve wellbeing. Nervous system-focused
+  Chiropractic care in Kingston.
 author: David White
 date: 2024-10-04T14:26:00.000Z
 type: article
 tags:
   - article
+seoSchemaPageType: Service
 ---
 <img src="/_includes/static/img/network-spinal.webp" alt="Pressing thumbs into spine" title="Pressing thumbs into spine" class="Right" width="600px" height="450px" loading="lazy"/>
 
@@ -26,7 +27,7 @@ The parasympathetic nervous system is responsible for the body’s rest and dige
 
 ## Holistic Assessment in Neurological Focused Chiropractic
 
-Neurological focused Chiropractors are assessing the neuro-system holistically - bones, muscles, nerves, patterns, and how they interact with each other.
+Neurological focused Chiropractors are assessing the neuro-system holistically - bones, muscles, nerves, patterns, and how they interact with each other. At Anttz, [Dr Hannah Emmett](/hannah-emmett-trusted-chiropractor/) takes this comprehensive approach with every client.
 
 ## Why Network Spinal is Unique and Gentle
 
@@ -38,7 +39,7 @@ Accumulated stress and trauma causes the body to shift into the defense postures
 
 The assessment, we do not just place our hands on the body and contact points. We assess the nervous system, spine, muscles and connective tissue before and after each and every contact.
 
-So on the table before each contact we assess: Defense postures, areas of tension, areas of breathing dysfunction, imbalances, pelvis dysfunction and adverse mechanical cord tension. Often the analysis takes longer than the actual contact. 
+So on the table before each contact we assess: Defense postures, areas of tension, areas of breathing dysfunction, imbalances, pelvis dysfunction and adverse mechanical cord tension. Often the analysis takes longer than the actual contact. To complement this work, many clients also benefit from [Somato Respiratory Integration (SRI)](/somato-respiratory-integration-sri/) breathing exercises. 
 
 So, the contact points are very strategically and systematically with several perspectives/outcomes and lots of presence before we actually make any contact.
 
@@ -64,5 +65,7 @@ This cutting-edge spinal care system physically eases discomfort, while simultan
 * Improved adaptability to stress
 * Movement beyond chronic pain to a place of life advancement and enhancement as your health related quality of life continues to improve
 * Reduced stress levels promote greater emotional well-being and quality of life
+
+Want to learn more about [Chiropractic care in general](/what-is-chiropractic-treatment/)? Or check our [frequently asked questions](/frequently-asked-questions-faqs/) for more information.
 
 <a href="/contact/" class="no-underline bg-[color:var(--dark-purple)] text-white mb-4 rounded-md cursor-pointer inline-block py-4 px-6 hover:opacity-80">Ready to Experience Network Spinal? Contact Us Today</a>

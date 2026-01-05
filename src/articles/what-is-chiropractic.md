@@ -1,9 +1,9 @@
 ---
 title: What is Chiropractic Treatment
-seoTitle: What is Chiropractic Treatment | Anttz Chiropractic
+seoTitle: What is Chiropractic Treatment? | Chiropractor Kingston | Anttz
 description: Learn about Chiropractic care, a hands-on approach to diagnosing
-  and treating spine and musculoskeletal issues for pain relief and improved
-  mobility.
+  and treating spine issues. Expert Chiropractor in Kingston Upon Thames for
+  pain relief & mobility.
 author: David White
 date: 2024-02-29T17:13:10.382Z
 type: article
@@ -24,13 +24,13 @@ Chiropractors use manual techniques, including spinal adjustments, to help resto
 
 ## Chiropractic Care
 
-**Our Chiropractors** focus on your nervous system. This system controls everything in the body. When there is no interference with the nervous system, your body is able to function at a higher level. Though most people come in for problems such as pain, we support your nervous system so that your symptoms may improve.
+**[Our Chiropractor](/hannah-emmett-trusted-chiropractor/)** focuses on your nervous system. This system controls everything in the body. When there is no interference with the nervous system, your body is able to function at a higher level. Though most people come in for problems such as pain, we support your nervous system so that your symptoms may improve.
 
 The benefits you can experience from Chiropractic include more energy, improved balance, better sleep, increased concentration and reduced stiffness, amongst others.
 
 ## Our Holistic Philosophy
 
-There are three phases of care in our clinic. The first is called relief care, which is when we focus on relieving your pain. The next is stabilisation, which includes strengthening weakened areas of your body. The goal is to get you to the final phase called vitalistic care. During this stage, you'll come in for brief periodic checkups to help ensure your nervous system is functioning at its best.
+There are three phases of care in our clinic. The first is called relief care, which is when we focus on relieving your pain. The next is stabilisation, which includes strengthening weakened areas of your body. The goal is to get you to the final phase called vitalistic care. During this stage, you'll come in for brief periodic checkups to help ensure your nervous system is functioning at its best. You can start with a [free spinal screening](/chiropractic-spinal-screening/) to assess your current spinal health.
 
 ## About
 
@@ -79,5 +79,7 @@ Chiropractors often consider three general types of stress that can influence sp
 **Emotional stress** such as anger, grief, fear and many others can cause supporting muscles to tighten, the spine to stiffen and postural changes to emerge.
 
 This model offers a way to understand how stress can influence physical function. However, chiropractors must ensure that any claims made are evidence-informed and comply with regulatory standards.
+
+At Anttz, we practise [Network Spinal](/what-is-network-spinal-chiropractic/), a gentle nervous system-focused technique, often combined with [SRI breathing exercises](/somato-respiratory-integration-sri/) for optimal results.
 
 <a href="/contact/" class="no-underline bg-[color:var(--dark-purple)] text-white mb-4 rounded-md cursor-pointer inline-block py-4 px-6 hover:opacity-80">Have Questions About Chiropractic? Get in Touch</a>

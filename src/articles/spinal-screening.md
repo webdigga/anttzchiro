@@ -1,14 +1,15 @@
 ---
 title: Chiropractic Spinal Screening
-seoTitle: Chiropractic Spinal Screening | Anttz Chiropractic
-description: Learn how Chiropractic spinal screenings can detect misalignments
-  early, helping to prevent pain, improve posture, and support overall spinal
-  health.
+seoTitle: Free Spinal Screening Kingston | Chiropractic Assessment | Anttz
+description: Book a free Chiropractic spinal screening in Kingston Upon Thames.
+  Detect misalignments early, prevent pain & improve posture. Contact Anttz
+  Chiropractic today.
 author: David White
 date: 2024-02-29T17:13:10.382Z
 type: article
 tags:
   - article
+seoSchemaPageType: Service
 ---
 <img src="/_includes/static/img/screening.webp" alt="Woman having her back assessed" title="Woman having her back assessed" class="Right" width="600px" height="450px" loading="lazy"/>
 

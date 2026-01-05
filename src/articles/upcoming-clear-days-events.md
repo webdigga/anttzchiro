@@ -1,9 +1,9 @@
 ---
 title: Upcoming Clear Days Events
-seoTitle: Upcoming Clear Days Events | Anntz Family Chiropractic
-description: Join us for upcoming events at Clear Days Chiropractic! Stay
-  informed about workshops, seminars, and community gatherings focused on
-  wellness and health.
+seoTitle: Clear Days Events London | Network Spinal Chiropractic | Anttz
+description: Join upcoming Clear Days events in London - unique Network Spinal
+  Chiropractic workshops for healing, wellness & transformation. Hosted by Anttz
+  Chiropractic.
 author: David White
 date: 2024-10-10T18:04:00.000Z
 type: article
