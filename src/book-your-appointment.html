@@ -1,0 +1,215 @@
+---
+layout: default
+ignore: true
+seoTitle: "Book Your Chiropractic Appointment | Anttz Chiropractic Kingston"
+description: "Book your chiropractic appointment online at Anttz Family Chiropractic in Kingston Upon Thames. New patients get 50% off their first consultation, just £49."
+ogType: website
+seoSchemaPageType: Organization
+permalink: /book-your-appointment/
+eleventyComputed:
+  canonical: "{{ env.site }}/book-your-appointment/"
+---
+
+{% import "./_includes/partials/navbar.html" as navBar with context %}
+{% import "./_includes/components/banner.html" as banner with context %}
+
+<div>
+
+  <!-- Hero -->
+  <section class="border-b border-solid border-b-[color:var(--very-light-gray)]">
+    <section>
+      {{ banner.bannerMacro() }}
+    </section>
+    <div class="border-b border-solid border-b-[color:var(--very-light-gray)]">
+      {{ navBar.nav(bgColour='bg-white') }}
+    </div>
+
+    <div class="container container--large">
+      <div class="max-w-4xl mx-auto text-center">
+        <h1 class="dark-copy">Book your appointment at <span class="text-[color:var(--light-purple)]">Anttz Family Chiropractic</span></h1>
+        <p class="dark-copy text-lg md:text-xl mb-2 max-w-2xl mx-auto">
+          Whether you are a new or existing patient, book your next visit online in seconds.
+        </p>
+        <div class="bg-[color:var(--lightest-gray)] rounded-md p-6 max-w-xl mx-auto mt-6 mb-8 border border-solid border-[color:var(--very-light-gray)]">
+          <p class="text-[color:var(--light-purple)] font-medium text-sm mb-2 tracking-wide uppercase">New patient offer</p>
+          <p class="dark-copy text-lg md:text-xl mb-1">
+            Day 1 consultation just <strong class="text-[color:var(--light-purple)]">£49</strong> <span class="line-through text-[color:var(--dark-gray)]">normally £129</span>
+          </p>
+          <p class="text-[color:var(--dark-gray)] text-sm">
+            Includes a full history, digital posture picture, muscle, joint, balance and neurology testing.
+          </p>
+        </div>
+        <a
+          href="#book"
+          class="mb-4 rounded-md cursor-pointer inline-block py-4 px-8 hover:opacity-80 bg-[color:var(--dark-purple)] text-[color:var(--white)] text-lg"
+        >
+          Book now
+        </a>
+        <p class="text-[color:var(--dark-gray)] text-sm mt-2">
+          New and not ready to commit? You can also book a <a href="#book" class="anchor-pop">free spinal screening</a> instead.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- What to expect -->
+  <section class="bg-[color:var(--lightest-gray)] border-b border-solid border-b-[color:var(--very-light-gray)]">
+    <div class="container container--medium">
+      <div class="max-w-4xl mx-auto">
+        <h2 class="dark-copy text-center mb-8">New here? What to expect at your first visit</h2>
+
+        <div class="grid md:grid-cols-3 gap-8">
+          <div class="text-center md:text-left">
+            <div class="text-[color:var(--dark-purple)] font-bold text-4xl mb-3">1</div>
+            <h3 class="text-lg sm:text-xl lg:text-2xl dark-copy mb-2">We listen</h3>
+            <p class="text-[color:var(--dark-gray)]">
+              You will have time to tell us your full history. No rushing, no judgement. We want to understand what you are dealing with and how it is affecting your life.
+            </p>
+          </div>
+
+          <div class="text-center md:text-left">
+            <div class="text-[color:var(--dark-purple)] font-bold text-4xl mb-3">2</div>
+            <h3 class="text-lg sm:text-xl lg:text-2xl dark-copy mb-2">We assess</h3>
+            <p class="text-[color:var(--dark-gray)]">
+              A thorough examination including digital posture pictures, muscle and joint testing, balance checks and a neurology assessment. We look at the full picture, not just where it hurts.
+            </p>
+          </div>
+
+          <div class="text-center md:text-left">
+            <div class="text-[color:var(--dark-purple)] font-bold text-4xl mb-3">3</div>
+            <h3 class="text-lg sm:text-xl lg:text-2xl dark-copy mb-2">We explain</h3>
+            <p class="text-[color:var(--dark-gray)]">
+              After your Day 1 appointment you will receive a call to book your Day 2 visit, where we walk you through our findings and your personalised care plan. No pressure, just clarity.
+            </p>
+          </div>
+        </div>
+
+        <div class="text-center mt-10">
+          <a
+            href="#book"
+            class="mb-4 rounded-md cursor-pointer inline-block py-4 px-8 hover:opacity-80 bg-[color:var(--dark-purple)] text-[color:var(--white)]"
+          >
+            Book your appointment
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Testimonials -->
+  <section class="bg-[color:var(--white)] border-b border-solid border-b-[color:var(--very-light-gray)]">
+    <div class="container container--medium text-center">
+      <div class="mx-auto max-w-screen-sm">
+        <h2 class="mb-4 dark-copy">Real patients, real results</h2>
+        <p class="mb-8 font-light text-[color:var(--dark-gray)]">Hear from people who have experienced care at Anttz Family Chiropractic.</p>
+      </div>
+      <div class="grid lg:grid-cols-3 gap-0">
+
+        <figure class="border-b lg:border-b-0 lg:border-r border-[color:var(--very-light-gray)] flex flex-col justify-center items-center p-8 text-center bg-[color:var(--lightest-gray)] md:p-12">
+          <blockquote class="mx-auto mb-4 max-w-2xl text-[color:var(--dark-gray)]">
+            <p class="my-4 italic">"The treatment is revolutionary. So much more abundance, energy. Also I am at a peaceful &amp; relaxed state when making decisions enabling me to do my best work."</p>
+          </blockquote>
+          <figcaption class="flex justify-center items-center space-x-3">
+            <div class="space-y-0.5 font-medium text-left">
+              <div class="dark-copy">~ Jay</div>
+            </div>
+          </figcaption>
+        </figure>
+
+        <figure class="border-b lg:border-b-0 lg:border-r border-[color:var(--very-light-gray)] flex flex-col justify-center items-center p-8 text-center bg-[color:var(--lightest-gray)] md:p-12">
+          <blockquote class="mx-auto mb-4 max-w-2xl text-[color:var(--dark-gray)]">
+            <p class="my-4 italic">"After initially being afraid of the adjustments due to ongoing stiffness and pain in my neck and back, I can't recommend the process enough. After a few weeks of weekly sessions I started to feel more positive and the pain slowly subsided."</p>
+          </blockquote>
+          <figcaption class="flex justify-center items-center space-x-3">
+            <div class="space-y-0.5 font-medium text-left">
+              <div class="dark-copy">~ Joanna</div>
+            </div>
+          </figcaption>
+        </figure>
+
+        <figure class="flex flex-col justify-center items-center p-8 text-center bg-[color:var(--lightest-gray)] md:p-12">
+          <blockquote class="mx-auto mb-4 max-w-2xl text-[color:var(--dark-gray)]">
+            <p class="my-4 italic">"This is my first time going to a Chiropractor at first I was a little scare, but Hannah explained to me everything and I started my routine with them."</p>
+          </blockquote>
+          <figcaption class="flex justify-center items-center space-x-3">
+            <div class="space-y-0.5 font-medium text-left">
+              <div class="dark-copy">~ Margherita</div>
+            </div>
+          </figcaption>
+        </figure>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- About Hannah -->
+  <section class="border-b border-solid border-b-[color:var(--very-light-gray)]">
+    <div class="container container--medium">
+      <div class="max-w-3xl mx-auto text-center">
+        <h2 class="dark-copy mb-4">Meet Hannah</h2>
+        <p class="text-[color:var(--dark-gray)] mb-4">
+          Hannah is a Doctor of Chiropractic specialising in Network Spinal care at Anttz Family Chiropractic in Kingston Upon Thames. She takes the time to understand each patient as an individual and creates care plans that work with your body, not against it.
+        </p>
+        <p class="text-[color:var(--dark-gray)] mb-8">
+          Whether you are dealing with long-term pain, recent injury, or you just know something is not right, Hannah is here to help you feel like yourself again.
+        </p>
+        <a
+          href="#book"
+          class="mb-4 rounded-md cursor-pointer inline-block py-4 px-8 hover:opacity-80 bg-[color:var(--dark-purple)] text-[color:var(--white)]"
+        >
+          Book with Hannah
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Booking -->
+  <section id="book" class="bg-[color:var(--lightest-gray)]">
+    <div class="container container--medium">
+      <div class="max-w-4xl mx-auto">
+        <div class="text-center mb-8">
+          <h2 class="dark-copy">Book your appointment</h2>
+          <p class="text-[color:var(--dark-gray)] max-w-2xl mx-auto">
+            Existing patients can book their next visit below. New patients: choose the <strong>£49 Day 1 consultation</strong> (50% off, normally £129) or a <strong>free spinal screening</strong> to find out more first.
+          </p>
+        </div>
+        <div class="relative">
+          <div class="bg-[color:var(--white)] rounded-md shadow-lg overflow-hidden" style="box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);">
+            <iframe
+              src="https://anttzchiro.neptune.practicehub.io/p/booking?embedded=true"
+              title="Book an appointment at Anttz Family Chiropractic"
+              class="w-full border-0 min-h-[1200px]"
+              loading="lazy"
+              allow="payment"
+            ></iframe>
+          </div>
+          <!-- Scroll hint arrow - large screens only -->
+          <div class="hidden lg:flex flex-col items-center absolute -right-12 top-1/2 -translate-y-1/2 text-[color:var(--light-gray)]">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 mb-1">
+              <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 15.75 7.5-7.5 7.5 7.5" />
+            </svg>
+            <span class="text-xs tracking-wide" style="writing-mode: vertical-lr;">scroll</span>
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 mt-1">
+              <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+            </svg>
+          </div>
+        </div>
+        <p class="text-center text-[color:var(--dark-gray)] text-sm mt-3 lg:hidden">Scroll within the booking form above to see all appointment types.</p>
+        <div class="text-center mt-8">
+          <p class="text-[color:var(--dark-gray)] text-sm">
+            <strong>Anttz Family Chiropractic</strong><br>
+            {{ settings.addressLineOne }}, {{ settings.addressLineTwo }}, {{ settings.addressLineThree }}, {{ settings.townCity }}, {{ settings.postCode }}<br>
+            <a href="tel:{{ settings.phoneNumber }}" class="anchor-pop">{{ settings.phoneNumber }}</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</div>
+
+<style>
+  html {
+    scroll-behavior: smooth;
+  }
+</style>
