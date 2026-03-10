@@ -96,13 +96,15 @@
             placeholder="Message"
             required></textarea>
 
+          <div data-netlify-recaptcha="true"></div>
+
           {{ button.button(
               type='primary',
               buttonText='Send',
               classes='w-full'
             )
           }}
-        
+
         </form>
       </div>   
     </div>
