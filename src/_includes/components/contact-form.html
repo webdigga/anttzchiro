@@ -96,7 +96,8 @@
             placeholder="Message"
             required></textarea>
 
-          <div class="mb-10" data-netlify-recaptcha="true"></div>
+          <div class="mb-2" data-netlify-recaptcha="true"></div>
+          <p class="text-red-500 text-sm mb-10 hidden" id="recaptcha-error-contact">Please confirm you are not a robot.</p>
 
           {{ button.button(
               type='primary',
@@ -106,6 +107,20 @@
           }}
 
         </form>
+        <script>
+          (function() {
+            var form = document.currentScript.previousElementSibling;
+            form.addEventListener('submit', function(e) {
+              var error = document.getElementById('recaptcha-error-contact');
+              if (typeof grecaptcha !== 'undefined' && !grecaptcha.getResponse()) {
+                e.preventDefault();
+                error.classList.remove('hidden');
+              } else {
+                error.classList.add('hidden');
+              }
+            });
+          })();
+        </script>
       </div>   
     </div>
   </div>
