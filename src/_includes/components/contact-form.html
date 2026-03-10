@@ -80,7 +80,11 @@
           name="contact"
           method="POST"
           action="/thank-you/"
-          netlify>
+          netlify
+          netlify-honeypot="bot-field">
+          <p class="hidden">
+            <label>Don't fill this out if you're human: <input name="bot-field" /></label>
+          </p>
           <input type="text" required class="w-full h-12 text-gray-600 placeholder-gray-400  shadow-sm bg-transparent text-lg font-normal leading-7 rounded-md border border-gray-200 focus:outline-none pl-4 mb-10" name="name" placeholder="Name">
           <input type="email" required class="w-full h-12 text-gray-600 placeholder-gray-400 shadow-sm bg-transparent text-lg font-normal leading-7 rounded-md border border-gray-200 focus:outline-none pl-4 mb-10" name="email" placeholder="Email">
           <input type="number" required class="[appearance:textfield] [&::-webkit-outer-spin-button]:appearance-none [&::-webkit-inner-spin-button]:appearance-none w-full h-12 text-gray-600 placeholder-gray-400 shadow-sm bg-transparent text-lg font-normal leading-7 rounded-md border border-gray-200 focus:outline-none pl-4 mb-10" name="phone" placeholder="Phone">
